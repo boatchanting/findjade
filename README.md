@@ -9,7 +9,7 @@
 
 ## 我要游玩
 
-[点击此处开始游戏](boatchanting.github.io/findjade/)
+[点击此处开始游戏](http://boatchanting.github.io/findjade/)
 
 ## 核心特色
 ✨ **玉石主题创新**  
